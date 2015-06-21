@@ -4,3 +4,9 @@ Have you ever wondered or delved into a deep conversation about where you have s
 
 This repository contains the server-side code of the Application. 
 Written in PHP.
+
+##DEMO
+
+You can check the service out at : http://45.55.67.71/api/recognize
+
+The service currently supports limited faces. 
