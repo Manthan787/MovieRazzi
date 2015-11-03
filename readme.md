@@ -4,3 +4,7 @@ Have you ever wondered or delved into a deep conversation about where you have s
 
 This repository contains the server-side code of the Application. 
 Written in PHP.
+
+### Created as part of the HackBaroda Hackathon.
+The project was created to submit at Hackbaroda and eventually went on to win Second Prize. 
+http://devpost.com/software/movierazzi
